@@ -54,3 +54,46 @@ Aplikasi ini mendukung proses pengambilan nomor antrian secara elektronik, peman
 1. Clone repository ini
    ```bash
    git clone https://github.com/username/antrian-e-tiket-ojk.git
+
+2. Buka project menggunakan Visual Studio
+3. Restore dependency (jika ada)
+4. Jalankan aplikasi ( Start / ```F5``` )
+5. Hubungkan ke layar display untuk mode tampilan antrian
+
+---
+
+## 🎯 Tujuan Pengembangan
+
+- Meningkatkan kualitas pelayanan publik
+- Mengurangi antrian manual dan human error
+- Mendukung transformasi digital layanan OJK
+- Memberikan pengalaman layanan yang lebih tertib dan profesional
+
+---
+
+## 👨‍💻 Pengembang
+
+**Andi Arsal Nur Al Amin N, S.Kom**
+ 
+Staff IT & Pengamat Teknologi Informasi
+
+Dikembangkan di bawah naungan: **PT. Ersal Integra Karya**
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dikembangkan untuk kebutuhan internal dan/atau kerja sama institusional.
+Penggunaan dan distribusi lebih lanjut menyesuaikan kebijakan pengembang dan perusahaan.
+
+---
+
+## 💬 Catatan
+
+Aplikasi ini masih dapat dikembangkan lebih lanjut, seperti:
+ - Integrasi API eksternal
+ - Mode online/offline
+ - Dashboard statistik antrian
+ - Versi web atau mobile
+
+---
