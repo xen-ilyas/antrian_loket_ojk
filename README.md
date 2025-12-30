@@ -36,6 +36,18 @@ Aplikasi ini mendukung proses pengambilan nomor antrian secara elektronik, peman
 
 ---
 
+## 📷 Tampilan Aplikasi
+### 🖥️ Display Antrian
+![Display Antrian](1.png)
+
+### 🎟️ Pengambilan Tiket
+![Pengambilan Tiket](2.png)
+
+### 🧑‍💼 Panel Admin
+![Panel Admin](3.png)
+
+### 🔊 Pemanggilan Antrian
+![Pemanggilan Antrian](4.png)
 
 ---
 
