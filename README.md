@@ -35,3 +35,12 @@ Aplikasi ini mendukung proses pengambilan nomor antrian secara elektronik, peman
 - **Display Output**: TV / Monitor eksternal
 
 ---
+
+
+---
+
+## 🚀 Cara Menjalankan Aplikasi
+
+1. Clone repository ini
+   ```bash
+   git clone https://github.com/username/antrian-e-tiket-ojk.git
