@@ -53,7 +53,7 @@ Aplikasi ini mendukung proses pengambilan nomor antrian secara elektronik, peman
 
 1. Clone repository ini
    ```bash
-   git clone https://github.com/username/antrian-e-tiket-ojk.git
+   git clone https://github.com/andi-arsal/antrian_loket_ojk.git
 
 2. Buka project menggunakan Visual Studio
 3. Restore dependency (jika ada)
